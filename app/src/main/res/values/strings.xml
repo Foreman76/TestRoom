@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestRoom</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="doc_id">УИД</string>
+    <string name="doc_date">20_03_2020</string>
+    <string name="doc_number">00012321</string>
+</resources>
